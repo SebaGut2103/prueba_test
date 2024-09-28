@@ -1,0 +1,3 @@
+def consultar(book):
+    print("\n\n**1.Consulta de productos **")
+    
